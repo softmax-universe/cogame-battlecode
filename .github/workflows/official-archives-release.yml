@@ -58,7 +58,7 @@ jobs:
           from pathlib import Path
           for year in ('bc25', 'bc26'):
               path = Path('official-coworld') / year / 'dist/coworld_manifest.json'
-              repo = 'https://github.com/Metta-AI/cogame-battlecode'
+              repo = 'https://github.com/softmax-universe/cogame-battlecode'
               text = path.read_text().replace(repo + '/blob/main/', repo + '/blob/' + os.environ['GITHUB_SHA'] + '/')
               text = text.replace(repo + '/tree/main/', repo + '/tree/' + os.environ['GITHUB_SHA'] + '/')
               path.write_text(json.dumps(json.loads(text), indent=2) + '\n')

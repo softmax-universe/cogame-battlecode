@@ -1594,7 +1594,7 @@ The result of that job, on the evidence in `tools/ci/parity_ledger_bc16.json`:
 url     https://s3.amazonaws.com/battlecode-releases-2016/releases/battlecode-2016.0.2.2.jar
 bytes   6 563 607
 sha256  c78ef341af0b666acabdabf545695862b77f84076f946766787bc1549b1fdc1c
-engine  Metta-AI mirror of battlecode-server-2016 @ 11a0b09f26a70da19f33a61ebec4ceaf6e161aa3
+engine  softmax-universe mirror of battlecode-server-2016 @ 11a0b09f26a70da19f33a61ebec4ceaf6e161aa3
 client  battlecode-client-2016 @ 317e1f3ff902ae568619c051813335ecdd72322c
 ```
 
