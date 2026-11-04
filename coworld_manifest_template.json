@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/Metta-AI/metta/main/coworld/schema/coworld_manifest.schema.json",
+  "$schema": "https://raw.githubusercontent.com/softmax-universe/softmax/main/coworld/schema/coworld_manifest.schema.json",
   "tags": [
     "battlecode",
     "strategy",
@@ -17,17 +17,17 @@
     "protocols": {
       "player": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/PROTOCOL.md"
       },
       "global": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/PROTOCOL.md"
       }
     },
     "docs": {
       "readme": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/README.md"
+        "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/README.md"
       },
       "pages": [
         {
@@ -35,7 +35,7 @@
           "title": "Rules, knobs and deliberate divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES.md"
           }
         },
         {
@@ -43,7 +43,7 @@
           "title": "Battlecode 2020 \"Soup\": rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC20.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC20.md"
           }
         },
         {
@@ -51,7 +51,7 @@
           "title": "Battlecode 2021 \u201cCampaign\u201d: rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC21.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC21.md"
           }
         },
         {
@@ -59,7 +59,7 @@
           "title": "Battlecode 2024 \"Breadwars\": rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC24.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC24.md"
           }
         },
         {
@@ -67,7 +67,7 @@
           "title": "Battlecode 2025 \u201cChromatic Conflict\u201d: rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC25.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC25.md"
           }
         },
         {
@@ -75,7 +75,7 @@
           "title": "Battlecode 2023 \u201cTempest\u201d: rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC23.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC23.md"
           }
         },
         {
@@ -83,7 +83,7 @@
           "title": "Battlecode 2022 \u201cMutation\u201d: rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC22.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC22.md"
           }
         },
         {
@@ -91,7 +91,7 @@
           "title": "Battlecode 2016 \"Zombie Invasion\": rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC16.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC16.md"
           }
         },
         {
@@ -99,7 +99,7 @@
           "title": "Battlecode 2019 \u201cCrusade\u201d: rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC19.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC19.md"
           }
         },
         {
@@ -107,7 +107,7 @@
           "title": "Replay format",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/REPLAY.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/REPLAY.md"
           }
         },
         {
@@ -115,7 +115,7 @@
           "title": "The Java oracle and what it proves",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/PARITY.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/PARITY.md"
           }
         },
         {
@@ -123,7 +123,7 @@
           "title": "Battlecode 2017 \"Robotic Wildlife Fund\": rules, knobs and divergences",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/RULES-BC17.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/RULES-BC17.md"
           }
         },
         {
@@ -131,7 +131,7 @@
           "title": "Competitor fidelity: what these standings establish",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-battlecode/blob/main/docs/FIDELITY-AUDIT.md"
+            "value": "https://github.com/softmax-universe/cogame-battlecode/blob/main/docs/FIDELITY-AUDIT.md"
           }
         }
       ]
@@ -3190,7 +3190,7 @@
       "run": [
         "/bin/battlecode"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-battlecode/tree/main",
+      "source_url": "https://github.com/softmax-universe/cogame-battlecode/tree/main",
       "resources": {
         "requests": {
           "memory": "4Gi"
@@ -3215,7 +3215,7 @@
         "PLAYER_SCRIPTED": "awu",
         "PLAYER_POLICY_LABEL": "awu"
       },
-      "source_url": "https://github.com/Metta-AI/cogame-battlecode/tree/main",
+      "source_url": "https://github.com/softmax-universe/cogame-battlecode/tree/main",
       "resources": {
         "requests": {
           "memory": "512Mi"
@@ -3238,7 +3238,7 @@
         "PLAYER_SCRIPTED": "scaffold",
         "PLAYER_POLICY_LABEL": "scaffold"
       },
-      "source_url": "https://github.com/Metta-AI/cogame-battlecode/tree/main",
+      "source_url": "https://github.com/softmax-universe/cogame-battlecode/tree/main",
       "resources": {
         "requests": {
           "memory": "512Mi"
